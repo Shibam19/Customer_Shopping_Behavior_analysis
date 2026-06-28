@@ -179,6 +179,4 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 👤 Author
 
-**Raunak Bhattacharjee**
-
-If you found this project helpful, feel free to ⭐ the repository.
+**Shibam De**
